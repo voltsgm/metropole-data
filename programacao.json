@@ -1,0 +1,42 @@
+{
+  "updated_at": "2025-11-09T15:11:32-03:00",
+  "timezone": "America/Sao_Paulo",
+  "days": [
+    {
+      "date": "2025-11-09",
+      "label": "Hoje",
+      "programs": [
+        {
+          "start": "06:00",
+          "end": "08:00",
+          "title": "Amanhecer na Metrópole",
+          "host": "DJ Fulano",
+          "description": "Clássicos leves e notícias locais para começar o dia.",
+          "slug": "amanhecer-na-metropole"
+        },
+        {
+          "start": "08:00",
+          "end": "12:00",
+          "title": "Morning Show",
+          "host": "Equipe Metrópole",
+          "description": "Revista matinal com participações dos ouvintes.",
+          "slug": "morning-show"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "label": "Amanhã",
+      "programs": [
+        {
+          "start": "06:00",
+          "end": "08:00",
+          "title": "Amanhecer na Metrópole",
+          "host": "DJ Fulano",
+          "description": "Clássicos leves e notícias locais para começar o dia.",
+          "slug": "amanhecer-na-metropole"
+        }
+      ]
+    }
+  ]
+}
